@@ -1,4 +1,4 @@
-package com.cenfotec.graphql.entities;
+package com.cenfotec.graphql.PrjGraphQL.entities;
 
 import java.io.Serializable;
 import java.time.LocalDate;

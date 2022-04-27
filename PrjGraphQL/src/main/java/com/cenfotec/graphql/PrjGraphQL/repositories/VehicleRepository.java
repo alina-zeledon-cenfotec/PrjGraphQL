@@ -1,6 +1,6 @@
-package com.cenfotec.graphql.repositories;
+package com.cenfotec.graphql.PrjGraphQL.repositories;
 
-import com.cenfotec.graphql.entities.Vehicle;
+import com.cenfotec.graphql.PrjGraphQL.entities.Vehicle;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

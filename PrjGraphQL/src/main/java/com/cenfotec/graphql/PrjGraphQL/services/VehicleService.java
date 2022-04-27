@@ -1,11 +1,11 @@
-package com.cenfotec.graphql.services;
+package com.cenfotec.graphql.PrjGraphQL.services;
 import java.time.LocalDate;
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
 import org.springframework.beans.factory.annotation.Autowired;
-import com.cenfotec.graphql.entities.Vehicle;
-import com.cenfotec.graphql.repositories.VehicleRepository;
+import com.cenfotec.graphql.PrjGraphQL.entities.Vehicle;
+import com.cenfotec.graphql.PrjGraphQL.repositories.VehicleRepository;
 import org.springframework.stereotype.Service;
 
 @Service

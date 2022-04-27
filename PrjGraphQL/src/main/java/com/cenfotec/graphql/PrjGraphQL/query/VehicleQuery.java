@@ -1,11 +1,11 @@
-package com.cenfotec.graphql.query;
+package com.cenfotec.graphql.PrjGraphQL.query;
 
 import java.util.List;
 import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
-import com.cenfotec.graphql.entities.Vehicle;
-import com.cenfotec.graphql.services.VehicleService;
+import com.cenfotec.graphql.PrjGraphQL.entities.Vehicle;
+import com.cenfotec.graphql.PrjGraphQL.services.VehicleService;
 import com.coxautodev.graphql.tools.GraphQLQueryResolver;
 
 @Component
